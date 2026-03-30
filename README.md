@@ -11,6 +11,6 @@ Hozirda tizimli boshqaruv va dasturlash yo'nalishlarida faoliyat yuritaman.
 ---
 ### 🛠 Texnik ko'nikmalarim:
 * **Tizim:** Windows XP/11.
-* **Dasturlash:** Python (Django), SQL (SQLite), 1C SKD.
+* **Dasturlash:** 1C SKD, Python (Django), SQL (SQLite).
 ---
 📫 **Bog'lanish:** [mirzalianvarov545@gmail.com]
