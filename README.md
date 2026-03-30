@@ -1,6 +1,9 @@
+# Assalomu alaykum! Men Mirzali — IT mutaxassisi 👨‍💻
+Hozirda tizimli boshqaruv va dasturlash yo'nalishlarida faoliyat yuritaman. 
+---
 ### 🏢 1C:Enterprise Loyihalarim
 * [Yo'l Varaqasi Tizimi](https://github.com/foydalanuvchi-nomingiz/waybill-system) — Avtomobillar va yoqilg'i nazorati.
-* [SQLite Integration](https://github.com/foydalanuvchi-nomingiz/1c-sqlite-tool) — 1C va SQLite ma'lumotlar almashinuvi.
+* 1c boyicha hali loyihalarim joylashtirganim yoq.
 
 ### 🐍 Python Loyihalarim
 * [MaxWay](https://github.com/MirAnv1545/Maxway.git) - Food with AP. Prosess writed at D60.
