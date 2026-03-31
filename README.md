@@ -2,7 +2,7 @@
 Hozirda tizimli boshqaruv va dasturlash yo'nalishlarida faoliyat yuritaman. 
 ---
 ### 🏢 1C:Enterprise Loyihalarim
-* [Yo'l Varaqasi Tizimi](https://github.com/MirAnv1545/1c-8.3.18-YolVaraqasi.git) — Avtomobillar va yoqilg'i nazorati.
+* [Mini Yo'l Varaqasi Tizimi](https://github.com/MirAnv1545/1c-8.3.18-YolVaraqasi.git) — Probeg hisobi.
 * 1c boyicha hali loyihalarim joylashtirganim yoq.
 
 ### 🐍 Python Loyihalarim
