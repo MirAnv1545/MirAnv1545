@@ -3,7 +3,7 @@ Hozirda tizimli boshqaruv va dasturlash yo'nalishlarida faoliyat yuritaman.
 ---
 ### 🏢 1C:Enterprise Loyihalarim
 * [Mini Yo'l Varaqasi Tizimi](https://github.com/MirAnv1545/1c-8.3.18-YolVaraqasi.git) — Probeg hisobi.
-* 1c boyicha hali loyihalarim joylashtirganim yoq.
+* [1c-mini-apteka](https://github.com/MirAnv1545/1c-mini-apteka.git) — Qoldiq va aylanmalar.
 
 ### 🐍 Python Loyihalarim
 * [MaxWay](https://github.com/MirAnv1545/Maxway.git) - Food with AP. Prosess writed at D60.
